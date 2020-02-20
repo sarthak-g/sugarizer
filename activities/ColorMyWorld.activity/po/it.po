@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Wed Feb 19 2020 10:48:22 GMT+0100 (GMT+01:00)\n"
+"POT-Creation-Date: Tue Aug 29 2017 18:15:18 GMT+0200 (CEST)\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,12 +21,12 @@ msgstr "Colorare il Mio Mondo!"
 #: appname.title
 msgctxt "appname.title"
 msgid "ColorMyWorld"
-msgstr "Colora il Mio Mondo"
+msgstr "Colorare il Mio Mondo!"
 
 #: Next
 msgctxt "Next"
 msgid "Next"
-msgstr "Avanti"
+msgstr "Il_prossimo"
 
 #: Nations
 msgctxt "Nations"
@@ -66,12 +66,12 @@ msgstr "Nord_America_Nazioni"
 #: Central_American_Nations
 msgctxt "Central_American_Nations"
 msgid "Central_American_Nations"
-msgstr "America_Centrale_Nazioni"
+msgstr "Central_America"
 
 #: South_American_Nations
 msgctxt "South_American_Nations"
 msgid "South_American_Nations"
-msgstr "Nazioni_SudAmericane"
+msgstr "Nazioni_Sudamericane"
 
 #: Island_Nations
 msgctxt "Island_Nations"
@@ -81,7 +81,7 @@ msgstr "Nazioni_Insulari"
 #: Australia_Region
 msgctxt "Australia_Region"
 msgid "Australia_Region"
-msgstr "Regione Australiana"
+msgstr "Australia_Regione"
 
 #: Antarctica_Region
 msgctxt "Antarctica_Region"
@@ -321,7 +321,7 @@ msgstr "Repubblica_Democratica_del_Congo"
 #: Macau
 msgctxt "Macau"
 msgid "Macau"
-msgstr "Macao"
+msgstr "Macau"
 
 #: Burundi
 msgctxt "Burundi"
@@ -336,12 +336,12 @@ msgstr "Cina"
 #: Afghanistan
 msgctxt "Afghanistan"
 msgid "Afghanistan"
-msgstr "Afghanistan"
+msgstr "afghanistan"
 
 #: Cape_Verde
 msgctxt "Cape_Verde"
 msgid "Cape_Verde"
-msgstr "Capo_Verde"
+msgstr "capo_Verde"
 
 #: Monaco
 msgctxt "Monaco"
@@ -356,7 +356,7 @@ msgstr "Bhutan"
 #: Chile
 msgctxt "Chile"
 msgid "Chile"
-msgstr "Cile"
+msgstr "Chile"
 
 #: Cayman_Islands
 msgctxt "Cayman_Islands"
@@ -371,7 +371,7 @@ msgstr "Camerun"
 #: Chad
 msgctxt "Chad"
 msgid "Chad"
-msgstr "Ciad"
+msgstr "Chad"
 
 #: Costa_Rica
 msgctxt "Costa_Rica"
@@ -406,7 +406,7 @@ msgstr "Danimarca"
 #: Djibouti
 msgctxt "Djibouti"
 msgid "Djibouti"
-msgstr "Gibuti"
+msgstr "Djibouti"
 
 #: Dominica
 msgctxt "Dominica"
@@ -426,7 +426,7 @@ msgstr "Estonia"
 #: Eritrea
 msgctxt "Eritrea"
 msgid "Eritrea"
-msgstr "Eritrea"
+msgstr "L'Eritrea"
 
 #: Dominican_Republic
 msgctxt "Dominican_Republic"
@@ -493,10 +493,10 @@ msgctxt "Kiribati"
 msgid "Kiribati"
 msgstr "Kiribati"
 
-#: North_Korea
-msgctxt "North_Korea"
-msgid "Korea,_Democratic_People's_Republic"
-msgstr "Korea,_Democratic_People's_Republic"
+#: Korea_Republic
+msgctxt "Korea_Republic"
+msgid "Korea,_Republic_of"
+msgstr "Corea_del_Sud"
 
 #: Trinidad_and_Tobago
 msgctxt "Trinidad_and_Tobago"
@@ -511,7 +511,7 @@ msgstr "Isole_Falkland_(Malvinas)"
 #: Thailand
 msgctxt "Thailand"
 msgid "Thailand"
-msgstr "Thailandia"
+msgstr "Tailandia"
 
 #: Tajikistan
 msgctxt "Tajikistan"
@@ -541,7 +541,7 @@ msgstr "Kuwait"
 #: Kazakhstan
 msgctxt "Kazakhstan"
 msgid "Kazakhstan"
-msgstr "Kazakistan"
+msgstr "Kazakhstan"
 
 #: Laos
 msgctxt "Laos"
@@ -666,7 +666,7 @@ msgstr "India"
 #: Iran
 msgctxt "Iran"
 msgid "Iran"
-msgstr "Iran"
+msgstr "Ho_corso"
 
 #: Mongolia
 msgctxt "Mongolia"
@@ -706,21 +706,16 @@ msgstr "Giamaica"
 #: Kenya
 msgctxt "Kenya"
 msgid "Kenya"
-msgstr "Kenya"
-
-#: Kosovo
-msgctxt "Kosovo"
-msgid "Kosovo"
-msgstr "Kosovo"
+msgstr "Kenia"
 
 #: Kyrgyzstan
 msgctxt "Kyrgyzstan"
 msgid "Kyrgyzstan"
 msgstr "Kyrgyzstan"
 
-#: South_Korea
-msgctxt "South_Korea"
-msgid "Korea,_Republic_of"
+#: Korea
+msgctxt "Korea"
+msgid "Korea"
 msgstr "Corea"
 
 #: Liberia
@@ -743,9 +738,9 @@ msgctxt "Liechtenstein"
 msgid "Liechtenstein"
 msgstr "Liechtenstein"
 
-#: Libya
-msgctxt "Libya"
-msgid "Libya"
+#: Libyan_Arab_Jamahiriya
+msgctxt "Libyan_Arab_Jamahiriya"
+msgid "Libyan_Arab_Jamahiriya"
 msgstr "Libia"
 
 #: Madagascar
@@ -760,7 +755,7 @@ msgstr "Martinica"
 
 #: The_former_Yugoslav_Republic_of_Macedonia
 msgctxt "The_former_Yugoslav_Republic_of_Macedonia"
-msgid "Macedonia,_Republic_of"
+msgid "The_former_Yugoslav_Republic_of_Macedonia"
 msgstr "Macedonia"
 
 #: Mali
@@ -806,7 +801,7 @@ msgstr "Messico"
 #: Malaysia
 msgctxt "Malaysia"
 msgid "Malaysia"
-msgstr "Malesia"
+msgstr "Malaysia"
 
 #: Mozambique
 msgctxt "Mozambique"
@@ -906,11 +901,11 @@ msgstr "Nauru"
 #: Norfolk_Island
 msgctxt "Norfolk_Island"
 msgid "Norfolk_Island"
-msgstr "Isola_Norfolk"
+msgstr "Norfolk_Island"
 
 #: Cocos_Islands
 msgctxt "Cocos_Islands"
-msgid "Cocos_Islands"
+msgid "Îles_Cocos"
 msgstr "Isole_Cocos"
 
 #: Antarctica
@@ -1006,7 +1001,7 @@ msgstr "Romania"
 #: Puerto_Rico
 msgctxt "Puerto_Rico"
 msgid "Puerto_Rico"
-msgstr "Porto_Rico"
+msgstr "Puerto_Rico"
 
 #: Russia
 msgctxt "Russia"
@@ -1020,7 +1015,7 @@ msgstr "Tokelau"
 
 #: Republic_of_Moldova
 msgctxt "Republic_of_Moldova"
-msgid "Moldova,_Republic_of"
+msgid "Republic_of_Moldova"
 msgstr "Moldova"
 
 #: Philippines
@@ -1103,19 +1098,14 @@ msgctxt "Sudan"
 msgid "Sudan"
 msgstr "Sudan"
 
-#: South_Sudan
-msgctxt "South_Sudan"
-msgid "South_Sudan"
-msgstr "South_Sudan"
-
 #: Sweden
 msgctxt "Sweden"
 msgid "Sweden"
 msgstr "Svezia"
 
-#: Syria
-msgctxt "Syria"
-msgid "Syria"
+#: Syrian_Arab_Republic
+msgctxt "Syrian_Arab_Republic"
+msgid "Syrian_Arab_Republic"
 msgstr "Siria"
 
 #: Switzerland
@@ -1146,7 +1136,7 @@ msgstr "Tanzania"
 #: Togo
 msgctxt "Togo"
 msgid "Togo"
-msgstr "Togo"
+msgstr "Andare"
 
 #: Sao_Tome_and_Principe
 msgctxt "Sao_Tome_and_Principe"
@@ -1161,7 +1151,7 @@ msgstr "Tunisia"
 #: Turkey
 msgctxt "Turkey"
 msgid "Turkey"
-msgstr "Turchia"
+msgstr "tacchino"
 
 #: British_Virgin_Islands
 msgctxt "British_Virgin_Islands"
@@ -1171,7 +1161,7 @@ msgstr "Isole_Vergini_Britanniche"
 #: Viet_Nam
 msgctxt "Viet_Nam"
 msgid "Viet_Nam"
-msgstr "Vietnam"
+msgstr "Viet_Nam"
 
 #: Uganda
 msgctxt "Uganda"
@@ -1191,7 +1181,7 @@ msgstr "Ucraina"
 #: United_States
 msgctxt "United_States"
 msgid "United_States"
-msgstr "Stati_Uniti"
+msgstr "stati_Uniti"
 
 #: Burkina_Faso
 msgctxt "Burkina_Faso"
@@ -1246,7 +1236,7 @@ msgstr "Swaziland"
 #: Yemen
 msgctxt "Yemen"
 msgid "Yemen"
-msgstr "Yemen"
+msgstr "yemen"
 
 #: Zambia
 msgctxt "Zambia"
@@ -1306,7 +1296,7 @@ msgstr "Isole_Marshall"
 #: Saint_Helena
 msgctxt "Saint_Helena"
 msgid "Saint_Helena"
-msgstr "Sant_Elena"
+msgstr "Santa_Helena"
 
 #: San_Marino
 msgctxt "San_Marino"
@@ -1321,7 +1311,7 @@ msgstr "Isole_Turks_e_Caicos"
 #: Western_Sahara
 msgctxt "Western_Sahara"
 msgid "Western_Sahara"
-msgstr "Sahara_Occidentale"
+msgstr "Sahara_occidentale"
 
 #: Serbia
 msgctxt "Serbia"
@@ -1346,17 +1336,17 @@ msgstr "San_Martin"
 #: Saint_Barthelemy
 msgctxt "Saint_Barthelemy"
 msgid "Saint_Barthelemy"
-msgstr "Saint_Barthelemy"
+msgstr "saint_Barthelemy"
 
 #: Guernsey
 msgctxt "Guernsey"
 msgid "Guernsey"
-msgstr "Guernsey"
+msgstr "maglione"
 
 #: Jersey
 msgctxt "Jersey"
 msgid "Jersey"
-msgstr "Jersey"
+msgstr "maglia"
 
 #: South_Georgia_South_Sandwich_Islands
 msgctxt "South_Georgia_South_Sandwich_Islands"
@@ -1402,59 +1392,4 @@ msgstr "Giro"
 msgctxt "Interactive"
 msgid "Interactive"
 msgstr "Interattivo"
-
-#: TutoPrev
-msgctxt "TutoPrev"
-msgid "Prev"
-msgstr "Prev"
-
-#: TutoNext
-msgctxt "TutoNext"
-msgid "Next"
-msgstr "Next"
-
-#: TutoEnd
-msgctxt "TutoEnd"
-msgid "End"
-msgstr "End"
-
-#: TutoExplainTitle
-msgctxt "TutoExplainTitle"
-msgid "Color My World Activity"
-msgstr "Color My World Activity"
-
-#: TutoExplainContent
-msgctxt "TutoExplainContent"
-msgid "Welcome into the Color My World activity. In Color My World, you can color the countries of the world to create your own customized map of the world. You can also play a geography game and go on a virtual tour across the world"
-msgstr "Welcome into the Color My World activity. In Color My World, you can color the countries of the world to create your own customized map of the world. You can also play a geography game and go on a virtual tour across the world"
-
-#: TutoModeTitle
-msgctxt "TutoModeTitle"
-msgid "Play Mode"
-msgstr "Play Mode"
-
-#: TutoModeContent
-msgctxt "TutoModeContent"
-msgid "Click here to select the mode of the activity.<br/> You can either color countries by selecting <b>Coloring</b> (default), play a geography game by selecting <b>Interactive</b>, or go on a virtual tour across the world by selecting <b>Tour</b>.<br/>You can also play on the entire world or just to focus a specific region of it"
-msgstr "Click here to select the mode of the activity.<br/> You can either color countries by selecting <b>Coloring</b> (default), play a geography game by selecting <b>Interactive</b>, or go on a virtual tour across the world by selecting <b>Tour</b>.<br/>You can also play on the entire world or just to focus a specific region of it"
-
-#: TutoColorTitle
-msgctxt "TutoColorTitle"
-msgid "Current Color"
-msgstr "Current Color"
-
-#: TutoColorContent
-msgctxt "TutoColorContent"
-msgid "Click here to choose the current color to use to color countries"
-msgstr "Click here to choose the current color to use to color countries"
-
-#: TutoRunTitle
-msgctxt "TutoRunTitle"
-msgid "Run"
-msgstr "Run"
-
-#: TutoRunContent
-msgctxt "TutoRunContent"
-msgid "If you selected Interactive or Tour play mode, click here to start running the game"
-msgstr "If you selected Interactive or Tour play mode, click here to start running the game"
 

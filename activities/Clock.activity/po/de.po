@@ -4,133 +4,131 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Tue Aug 29 2017 18:15:08 GMT+0200 (CEST)\n"
-"PO-Revision-Date: 2019-11-30 18:33+0000\n"
-"Last-Translator: Christoph Derndorfer <christoph@derndorfer.eu>\n"
-"Language-Team: German <http://translate.sugarizer.org/projects/sugarizer"
-"/activity-clock/de/>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.16\n"
+"X-Generator: ini2po 0.0.1\n"
 
 #: SimpleClock
 msgctxt "SimpleClock"
 msgid "Simple Clock"
-msgstr "Einfache Uhr"
+msgstr ""
 
 #: NiceClock
 msgctxt "NiceClock"
 msgid "Nice Clock"
-msgstr "Schöne Uhr"
+msgstr ""
 
 #: WriteTime
 msgctxt "WriteTime"
 msgid "Write time"
-msgstr "Uhrzeit schreiben"
+msgstr ""
 
 #: WriteDate
 msgctxt "WriteDate"
 msgid "Write date"
-msgstr "Datum schreiben"
+msgstr ""
 
 #: WhatTime
 msgctxt "WhatTime"
 msgid "What Time Is It?"
-msgstr "Wie viel Uhr ist es?"
+msgstr ""
 
 #: Sunday
 msgctxt "Sunday"
 msgid "Sunday"
-msgstr "Sonntag"
+msgstr ""
 
 #: Monday
 msgctxt "Monday"
 msgid "Monday"
-msgstr "Montag"
+msgstr ""
 
 #: Tuesday
 msgctxt "Tuesday"
 msgid "Tuesday"
-msgstr "Dienstag"
+msgstr ""
 
 #: Wednesday
 msgctxt "Wednesday"
 msgid "Wednesday"
-msgstr "Mittwoch"
+msgstr ""
 
 #: Thursday
 msgctxt "Thursday"
 msgid "Thursday"
-msgstr "Donnerstag"
+msgstr ""
 
 #: Friday
 msgctxt "Friday"
 msgid "Friday"
-msgstr "Freitag"
+msgstr ""
 
 #: Saturday
 msgctxt "Saturday"
 msgid "Saturday"
-msgstr "Samstag"
+msgstr ""
 
 #: January
 msgctxt "January"
 msgid "January"
-msgstr "Jänner"
+msgstr ""
 
 #: February
 msgctxt "February"
 msgid "February"
-msgstr "Februar"
+msgstr ""
 
 #: March
 msgctxt "March"
 msgid "March"
-msgstr "März"
+msgstr ""
 
 #: April
 msgctxt "April"
 msgid "April"
-msgstr "April"
+msgstr ""
 
 #: May
 msgctxt "May"
 msgid "May"
-msgstr "Mai"
+msgstr ""
 
 #: June
 msgctxt "June"
 msgid "June"
-msgstr "Juni"
+msgstr ""
 
 #: July
 msgctxt "July"
 msgid "July"
-msgstr "Juli"
+msgstr ""
 
 #: August
 msgctxt "August"
 msgid "August"
-msgstr "August"
+msgstr ""
 
 #: September
 msgctxt "September"
 msgid "September"
-msgstr "September"
+msgstr ""
 
 #: October
 msgctxt "October"
 msgid "October"
-msgstr "Oktober"
+msgstr ""
 
 #: November
 msgctxt "November"
 msgid "November"
-msgstr "November"
+msgstr ""
 
 #: December
 msgctxt "December"
 msgid "December"
-msgstr "Dezember"
+msgstr ""

@@ -264,17 +264,17 @@
   }
 }
 
-@media only screen and (min-width: 1081px) {
-  #export {
+@media only screen and (min-width: 1142px) {
+  #edit-copy {
+    display: inline-block;
+  }
+  #edit-paste {
     display: inline-block;
   }
 }
 
 @media only screen and (min-width: 1197px) {
-  #edit-copy {
-    display: inline-block;
-  }
-  #edit-paste {
+  #export {
     display: inline-block;
   }
 }
