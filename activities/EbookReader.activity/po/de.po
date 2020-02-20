@@ -4,16 +4,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Thu Jul 26 2018 21:40:19 GMT+0200 (CEST)\n"
-"PO-Revision-Date: 2019-11-30 18:18+0000\n"
-"Last-Translator: Christoph Derndorfer <christoph@derndorfer.eu>\n"
-"Language-Team: German <http://translate.sugarizer.org/projects/sugarizer"
-"/activity-ebook-reader/de/>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.16\n"
+"X-Generator: ini2po 0.0.1\n"
 
 #: EbookReaderActivity
 msgctxt "EbookReaderActivity"
@@ -23,7 +21,7 @@ msgstr ""
 #: Next
 msgctxt "Next"
 msgid "Next"
-msgstr "Weiter"
+msgstr ""
 
 #: Previous
 msgctxt "Previous"
@@ -58,12 +56,12 @@ msgstr ""
 #: Ok
 msgctxt "Ok"
 msgid "Ok"
-msgstr "Ok"
+msgstr ""
 
 #: Cancel
 msgctxt "Cancel"
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr ""
 
 #: PrevShort
 msgctxt "PrevShort"
