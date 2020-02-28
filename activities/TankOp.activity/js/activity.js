@@ -5,7 +5,7 @@ var play;
 var sound;
 var mouse = {};
 
-define(["sugar-web/activity/activity", "tutorial"], function (activity, tutorial) {
+define(["sugar-web/activity/activity"], function (activity) {
 
 	// Manipulate the DOM only when it is ready.
 	requirejs(['domReady!',"settings"], function (doc, settings) {
@@ -51,12 +51,6 @@ define(["sugar-web/activity/activity", "tutorial"], function (activity, tutorial
 							play.resize();
 						}
 					});
-
-					// Launch tutorial
-					document.getElementById("help-button").addEventListener('click', function(e) {
-						tutorial.start(play);
-					});
-
 					document.getElementById("unfullscreen-button").addEventListener('click', function() {
 						document.getElementById("main-toolbar").style.visibility = "visible";
 						document.getElementById("unfullscreen-button").style.visibility = "hidden";

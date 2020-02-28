@@ -675,8 +675,7 @@ enyo.kind({
 			{name: "reinittext", showing: false, content: "xxx", classes: "computer-reinit"},
 			{classes: "computer-line"},
 			{name: "copyright", content: "xxx", classes: "computer-copyright"},
-			{content: "© 2013-2020 Lionel Laské, Sugar Labs Inc and&nbsp;", allowHtml: true, classes: "computer-contributor"},
-			{content: "contributors", classes: "computer-contributor-link", allowHtml: true, ontap: "viewContributors"},
+			{content: "© 2013-2019 Lionel Laské, Sugar Labs Inc and Contributors", classes: "computer-contributor"},
 			{name: "license", content: "xxx", classes: "computer-licence"},
 			{name: "licenseplus", content: "xxx", classes: "computer-licence"},
 			{name: "warningmessage", showing: false, content: "xxx", classes: "computer-warningmessage", showing: false}
@@ -756,10 +755,6 @@ enyo.kind({
 
 	switchInit: function() {
 		this.$.warningmessage.setShowing(this.$.reinitcheck.getNodeProperty("checked"));
-	},
-
-	viewContributors: function() {
-		util.openAsUrl("https://github.com/llaske/sugarizer/blob/dev/docs/credits.md");
 	},
 
 	version: function() {
