@@ -1,2 +1,2 @@
 # SugarizerVueTemplate
-Vue.js activity template
+Template to be used for the development of sugarizer activities in Vue.
