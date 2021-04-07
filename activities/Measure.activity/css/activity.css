@@ -140,3 +140,111 @@ p {
 	background-image: url("../icons/pause.svg");
 	display: none;
 }
+
+#fullscreen-button {
+  background-image: url("../icons/view-fullscreen.svg");
+}
+
+#main-toolbar #help-button {
+  background-image: url("../icons/help.svg");
+}
+
+#time-domain-button {
+	background-image: url("../icons/time-domain.svg");
+}
+
+#zoom-button {
+	background-image: url("../icons/zoom.svg");
+}
+
+#network-button {
+	background-image: url("../lib/sugar-web/graphics/icons/actions/zoom-home.svg");
+}
+
+#capture-sample-button {
+	background-image: url("../icons/save-image.svg");
+}
+
+#settings-button {
+	background-image: url("../icons/settings.svg");
+}
+
+#trigger-none-button {
+	background-image: url("../icons/trigger-none.svg");
+}
+
+#logging-interval-button {
+	background-image: url("../icons/logging-interval.svg");
+}
+
+#start-logging-button {
+	background-image: url("../icons/start-logging.svg");
+}
+
+#tuning-button {
+	background-image: url("../icons/tuning.svg");
+}
+
+.palette-item {
+	width: 200px;
+	height: 30px;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+
+.palette-item:hover {
+	background-color: #808080;
+}
+
+.palette-icon {
+	width: 30px;
+}
+
+.palette-text {
+	vertical-align: super;
+}
+
+.item-icon {
+	padding-top: 3px;
+	height: 40px;
+}
+
+#instrument-button {
+	background-image: url("../icons/instruments.svg");
+}
+
+#notes-button {
+	background-image: url("../icons/notes.svg");
+}
+
+#octaves-button {
+	background-image: url("../icons/octaves.svg");
+}
+
+#harmonics-button {
+	background-image: url("../icons/harmonics.svg");
+}
+
+#tuning-pause-button {
+	background-image: url("../icons/pause.svg");
+}
+
+#invert-button {
+	background-image: url("../icons/invert.svg");
+}
+
+#amp-low-button {
+	background-image: url("../icons/amp-low.svg");
+}
+
+#amp-high-button {
+	background-image: url("../icons/amp-high.svg");
+}
+
+#freq-low-button {
+	background-image: url("../icons/freq-low.svg");
+}
+
+#freq-high-button {
+	background-image: url("../icons/freq-high.svg");
+}

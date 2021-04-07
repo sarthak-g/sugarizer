@@ -24,10 +24,75 @@
 
 			<!-- Add more buttons here -->
 
-			<sugar-toolitem id="play-button" title="Play" v-on:click="playOrPause" ></sugar-toolitem>
+			<sugar-toolitem 
+				id="network-button" 
+				title="Network"
+				palette-file="js/palettes/networkPalette.js"
+				palette-class="PawnPalette"
+			></sugar-toolitem>
+			<div class="splitbar"></div>
+			<sugar-toolitem id="time-domain-button" title="Time domain"></sugar-toolitem>
+			<sugar-toolitem 
+				id="zoom-button" 
+				title="Zoom"
+				palette-file="js/palettes/zoomPalette.js"
+				palette-class="PawnPalette"
+				palette-title="Zoom"
+			></sugar-toolitem>
+			<sugar-toolitem id="play-button" title="Play" v-on:click="playOrPause"></sugar-toolitem>
 			<sugar-toolitem id="pause-button" title="Pause" v-on:click="playOrPause"></sugar-toolitem>
+			<sugar-toolitem 
+				id="settings-button" 
+				title="Waveform Settings"
+				palette-file="js/palettes/waveformPalette.js"
+				palette-class="PawnPalette"
+				palette-title="Waveform Settings"
+			></sugar-toolitem>
+			<div class="splitbar"></div>
+			<sugar-toolitem 
+				id="logging-interval-button" 
+				title="Select logging interval"
+				palette-file="js/palettes/loggingPalette.js"
+				palette-class="PawnPalette"
+				palette-title="Select logging interval"
+			></sugar-toolitem>
+			<sugar-toolitem id="start-logging-button" title="Start logging"></sugar-toolitem>
+			<sugar-toolitem id="trigger-none-button" title="Trigger None"></sugar-toolitem>
+			<div class="splitbar"></div>
+			<sugar-toolitem 
+				id="instrument-button" 
+				title="Select instrument"
+				palette-file="js/palettes/instrumentPalette.js"
+				palette-class="PawnPalette"
+				palette-title="Select instrument"
+			></sugar-toolitem>
+			<sugar-toolitem 
+				id="notes-button" 
+				title="Select note"
+				palette-file="js/palettes/notesPalette.js"
+				palette-class="PawnPalette"
+				palette-title="Notes"
+			></sugar-toolitem>
+			<sugar-toolitem 
+				id="octaves-button" 
+				title="Select octave"
+				palette-file="js/palettes/octavePalette.js"
+				palette-class="PawnPalette"
+				palette-title="Octaves"
+			></sugar-toolitem>
+			<sugar-toolitem 
+				id="tuning-button" 
+				title="Tune an instrument"
+				palette-file="js/palettes/tuningPalette.js"
+				palette-class="PawnPalette"
+				palette-title="Tune an instrument"
+			></sugar-toolitem>
+			<div class="splitbar"></div>
+			<sugar-toolitem id="capture-sample-button" title="Capture Sample"></sugar-toolitem>
 			<!-- Toolitems with class="pull-right" will be right aligned -->
 			<sugar-toolitem id="stop-button" title="Stop" class="pull-right"></sugar-toolitem>
+			<sugar-toolitem id="fullscreen-button" title="Full screen" class="pull-right"></sugar-toolitem>
+			<sugar-toolitem id="help-button" title="Help" class="pull-right"></sugar-toolitem>
 		</sugar-toolbar>
 
 		<canvas id="mainCanvas"></canvas>
